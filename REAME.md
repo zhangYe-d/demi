@@ -1,3 +1,3 @@
 # Demi
 
-a simple implementation of turning jsx to solid function call and template
+a frontend library for building user interfaces
