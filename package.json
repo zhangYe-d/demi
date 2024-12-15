@@ -1,0 +1,22 @@
+{
+  "name": "demi",
+  "version": "0.0.1",
+  "description": "a frontend library for building user interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangYe-d/demi.git"
+  },
+  "keywords": [
+    "demi"
+  ],
+  "author": "zhangYe-d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangYe-d/demi/issues"
+  },
+  "homepage": "https://github.com/zhangYe-d/demi#readme"
+}
